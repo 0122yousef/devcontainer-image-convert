@@ -110,4 +110,3 @@ export class ImageConverter implements vscode.CodeActionProvider {
 		return action;
 	}
 
-}
